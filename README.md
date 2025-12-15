@@ -1,10 +1,11 @@
-- 👋 Hi, I’m suhail
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋 I'm Suhail
 
-<!---
-modsuhail25/modsuhail25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a MERN Stack Developer with hands-on experience building real-world applications using React, Node.js, Express, and MongoDB.  
+I enjoy turning ideas into scalable products, writing clean code, and continuously improving my problem-solving skills.
+
+Currently focused on:
+- Strengthening core JavaScript & DSA
+- Building production-ready full-stack applications
+- Learning best practices in system design and software architecture
+
+Always curious, always learning 🚀
